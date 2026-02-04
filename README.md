@@ -24,4 +24,4 @@ I built this project to practice my first steps in Data Science. I took a datase
 The original dataset can be found here: [Kaggle - Antibiotic Susceptibility](https://www.kaggle.com/datasets/adilimadeddinehosni/multi-resistance-antibiotic-susceptibility)
 
 ---
-*Created by Roni Cohen*
+*Created by Roni Cohen , Data Science Learning Journey*
