@@ -1,6 +1,6 @@
-# 🦠 Antibiotic Resistance Analysis Project
+#  Antibiotic Resistance Analysis Project
 
-## 🎯 Project Goal
+##  Project Goal
 The primary objective of this project is to analyze antibiotic resistance patterns within a clinical dataset to identify key drivers of resistance and evaluate the effectiveness of current treatment protocols. 
 
 Key focus areas include:
@@ -10,7 +10,7 @@ Key focus areas include:
 
 ---
 
-## 📊 Key Findings & Statistics
+##  Key Findings & Statistics
 
 ### 1. Resistance Prevalence
 * **68%+** of all bacterial samples were classified as **MDR** or **XDR**.
@@ -34,14 +34,14 @@ Through statistical analysis of 10,000+ records, we compared the probability of 
 
 ---
 
-## 🧬 Pathogen Insights
+##  Pathogen Insights
 * **Primary Pathogen:** *E. coli* was identified as the most prevalent bacteria, making it the top priority for monitoring.
 * **Last-Resort Antibiotics:** Drugs such as **Imipenem (IPM)** and **Colistin** maintain high efficacy, though the presence of XDR strains remains a threat.
 * **Age Distribution:** Resistance levels were found to be age-independent, with a stable average of ~2.15 resistances per sample across all age groups.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 * **Python**: Core analysis.
 * **Pandas**: Data manipulation and cleaning.
 * **Matplotlib & Seaborn**: Data visualization.
@@ -49,7 +49,7 @@ Through statistical analysis of 10,000+ records, we compared the probability of 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 * `analysis.ipynb`: The main Jupyter Notebook containing the code and visualizations.
 * `synthetic_bacteria_dataset.csv`: The raw dataset used for the study.
 * `README.md`: Project summary and conclusions.
