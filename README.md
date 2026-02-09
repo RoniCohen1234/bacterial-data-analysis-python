@@ -27,10 +27,7 @@ Through statistical analysis of 10,000+ records, we compared the probability of 
 
 **Conclusion:** The **Relative Risk of ~1.0** indicates that in this dataset, prior hospitalization is not a statistically significant risk factor for MDR. This suggests that resistant strains are already deeply embedded in the community.
 
-### 3. Patient Profile
-* **70.4%** of MDR cases originated from the community (no recent hospital visit).
-* **29.6%** of MDR cases originated from hospitalized patients.
-* **Insight:** While individual risk is similar, the sheer volume of resistant infections is driven by the community setting.
+
 
 ---
 
